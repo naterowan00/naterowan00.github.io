@@ -3,7 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Welcome to my blog"
+title: "Nate's Site, Coming Soon!"
 ---
-
-Woohoo, this is my website!
