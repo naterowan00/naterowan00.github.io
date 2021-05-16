@@ -4,7 +4,7 @@ title: My Work
 permalink: /my-work/
 ---
 
-**Sports
+##Sports
 
 February 2021, AZSnakepit.com - [The Hit Probability of Gozno's Little Blooper](https://www.azsnakepit.com/2021/2/7/22265653/the-hit-probability-of-a-little-blooper-gonzo-walkoff)
 
